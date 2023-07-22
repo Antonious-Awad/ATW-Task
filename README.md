@@ -1,10 +1,12 @@
 # ATW-Task
 
-## Screenshots
+# Availabe Pages & Tabs
 
-![](./Pictures/Screenshot1.png)
-![](./Pictures/Screenshot2.png)
-![](./Pictures/Screenshot3.png)
+- Project
+- Users
+- Web Design
+
+![](./Pictures/SS.png)
 
 ## Project Setup
 
