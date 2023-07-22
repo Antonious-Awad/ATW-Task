@@ -4,9 +4,9 @@ This template should help get you started developing with Vue 3 in Vite.
 
 ## Screenshots
 
-![](/Pictures/Screenshot 1.png)
-![](/Pictures/Screenshot 2.png)
-![](/Pictures/Screenshot 3.png)
+![](./Pictures/Screenshot 1.png)
+![](./Pictures/Screenshot 2.png)
+![](./Pictures/Screenshot 3.png)
 
 ## Recommended IDE Setup
 
